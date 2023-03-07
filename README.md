@@ -1,0 +1,1 @@
+As a final project for the "A&C: Computational cognitino" course, we (Florian Pätzold, Pelin Kömürlüoglu, Saskia Nehls and Merlin Marinova) here upload the Python notebook for the data visualization, interpretation and analysis of the wrld happiness report data from 2015 - 2022.
